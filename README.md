@@ -33,15 +33,6 @@ Simulate the design to verify the serial shift operation.
 ```
 
 **PROGRAM**
-
-```
-Program for flipflops and verify its truth table in quartus using Verilog programming.
-
-Developed by: KABELAN G K
-RegisterNumber: 24900985
-
-```
-```
 module exp10(clk, sin, q);
     input clk;
     input sin;
@@ -56,14 +47,15 @@ module exp10(clk, sin, q);
     end
 endmodule
 
-```
 
 **RTL LOGIC FOR SISO Shift Register**
-![image](https://github.com/user-attachments/assets/74754641-8f50-47bb-bbff-1912a82aff08)
+
+<img width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/95a8199d-6c42-4a5c-ab6f-526ac6f0e89c" />
 
 
 **TIMING DIGRAMS FOR SISO Shift Register**
-![image](https://github.com/user-attachments/assets/77777f25-4b4f-4668-87f2-907191c2516a)
+
+<img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/50120f0f-c50a-4962-ae49-b6b0430a3132" />
 
 
 **RESULTS**
